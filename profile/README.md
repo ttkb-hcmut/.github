@@ -7,7 +7,9 @@ As of this writing, based on recent "aggressive" developments across code hostin
 
 ttkb-hcmut developers embrace AI usage. We believe that LLM is a powerful tool that, under the right hands, can be used effectively and open up new ways to program and engineer. But as with anything, usage of a tool should not be forced onto a group of people: tool adoption should be gradual and voluntary, person by person.
 
-Our projects are diverse: some projects do not accept LLM code or contribution, some projects do involve LLM-assisted coding, and some projects are heavily LLM-powered. Please refer to the disclosure document of each project. In the case that a disclosure is missing, please notify the maintainers immediately (see [Contact](#contact) in the bottom section below).
+Our projects are diverse: some projects do not accept LLM code or contribution, some projects do involve LLM-assisted coding, and some projects are heavily LLM-powered. Indeed, one developer in our team is an active AI researcher, another developer is learning to combine AI with other disciplines.
+
+Please refer to the disclosure document of each project. In the case that a disclosure is missing, please notify the maintainers immediately (see [Contact](#contact) in the bottom section below).
 
 We don't encourage people to hard-fork projects. Forks cause fragmentation which can kill an already small / fragile ecosystem. Please discuss with the community before resort to forking. (Soft forks are fine)
 
